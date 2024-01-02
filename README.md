@@ -17,6 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=nedanovx&theme=dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nedanovx&icon=5&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nedanovx&label=Profile%20views&color=0e75b6&style=flat" alt="nedanovx" /> </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
